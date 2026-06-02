@@ -43,10 +43,7 @@
 
 ### 🔥 My Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=normieweirdo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=normieweirdo&theme=dracula&column=5&no-bg=true" height="150" alt="trophy graph" />
-</div>
+
 
 <br>
 
