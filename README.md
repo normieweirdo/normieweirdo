@@ -12,16 +12,14 @@
 
 ### 👩‍💻 About Me
 
-<p align="left">
-  - 🔭 I’m deeply interested in <b>Machine Learning</b> and <b>Data Analytics</b>.<br>
-  - 💻 My tech stack includes Python, Java, C, JavaScript, HTML, CSS, PHP, and MySQL.<br>
-  - 🚀 I'm always looking to explore new data sets and build impactful projects.<br>
-  - 📫 Reach out to me: <b>dassamir06080@gmail.com</b>
-</p>
+- 🔭 I’m deeply interested in **Machine Learning** and **Data Analytics**.
+- 💻 My tech stack includes Python, Java, C, JavaScript, HTML, CSS, PHP, and MySQL.
+- 🚀 I'm always looking to explore new data sets and build impactful projects.
+- 📫 Reach out to me: **dassamir06080@gmail.com**
 
 ### 🛠 Languages & Tools
 
-<div align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -37,24 +35,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-</div>
+</p>
 
 <br>
 
 ### 🔥 My Stats
 
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=normieweirdo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=normieweirdo&theme=dracula&column=5&v=2" height="150" alt="trophy graph" />
-</div>
+  <img src="https://github-profile-trophy.vercel.app/?username=normieweirdo&theme=dracula&column=5&margin-w=15" height="150" alt="trophy graph" />
+</p>
 
 <br>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/normieweirdo/normieweirdo/pacman-output/pacman-contribution-graph-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/normieweirdo/normieweirdo/pacman-output/pacman-contribution-graph.svg?v=2">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/normieweirdo/normieweirdo/pacman-output/pacman-contribution-graph.svg?v=2" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/normieweirdo/normieweirdo/pacman-output/pacman-contribution-graph-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/normieweirdo/normieweirdo/pacman-output/pacman-contribution-graph.svg?v=3">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/normieweirdo/normieweirdo/pacman-output/pacman-contribution-graph.svg?v=3" width="100%">
   </picture>
 </div>
 
@@ -62,11 +60,11 @@
 
 ### 📫 Connect with Me
 
-<div align="left">
+<p align="left">
   <a href="mailto:dassamir06080@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/samir-das-694216328">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-</div>
+</p>
