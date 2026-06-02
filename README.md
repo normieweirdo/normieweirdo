@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋! I'm Samir</h1>
 
 <h3 align="center">Machine Learning Enthusiast & Data Analytics</h3>
@@ -41,20 +42,18 @@
 
 ### 🔥 My Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=normieweirdo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=normieweirdo&theme=dracula&column=5&margin-w=15" height="150" alt="trophy graph" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=normieweirdo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=normieweirdo&theme=dracula&column=5&v=5)
 
 <br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/normieweirdo/normieweirdo/pacman-output/pacman-contribution-graph-dark.svg?v=3">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/normieweirdo/normieweirdo/pacman-output/pacman-contribution-graph.svg?v=3">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/normieweirdo/normieweirdo/pacman-output/pacman-contribution-graph.svg?v=3" width="100%">
-  </picture>
-</div>
+### 🕹️ My Contribution Maze
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/normieweirdo/normieweirdo/pacman-output/pacman-contribution-graph-dark.svg?v=5">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/normieweirdo/normieweirdo/pacman-output/pacman-contribution-graph.svg?v=5">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/normieweirdo/normieweirdo/pacman-output/pacman-contribution-graph.svg?v=5" width="100%">
+</picture>
 
 <br>
 
@@ -68,3 +67,4 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </p>
+
