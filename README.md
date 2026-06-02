@@ -45,16 +45,16 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=normieweirdo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=normieweirdo&theme=dracula&column=5" height="150" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=normieweirdo&theme=dracula&column=5&v=2" height="150" alt="trophy graph" />
 </div>
 
 <br>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/normieweirdo/normieweirdo/pacman-output/pacman-contribution-graph-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/normieweirdo/normieweirdo/pacman-output/pacman-contribution-graph.svg?v=1">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/normieweirdo/normieweirdo/pacman-output/pacman-contribution-graph.svg?v=1" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/normieweirdo/normieweirdo/pacman-output/pacman-contribution-graph-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/normieweirdo/normieweirdo/pacman-output/pacman-contribution-graph.svg?v=2">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/normieweirdo/normieweirdo/pacman-output/pacman-contribution-graph.svg?v=2" width="100%">
   </picture>
 </div>
 
