@@ -44,20 +44,18 @@
 ### 🔥 My Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=normieweirdo&show_icons=true&theme=dark&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=normieweirdo&layout=compact&theme=dark&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=normieweirdo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=normieweirdo&theme=dracula&column=5&no-bg=true" height="150" alt="trophy graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=normieweirdo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=normieweirdo&theme=react-dark&bg_color=0d1117&hide_border=false" width="100%" alt="contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/normieweirdo/normieweirdo/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/normieweirdo/normieweirdo/pacman-output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/normieweirdo/normieweirdo/pacman-output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
 <br>
