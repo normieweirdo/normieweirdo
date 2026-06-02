@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋! I'm Samir</h1>
 
 <h3 align="center">Machine Learning Enthusiast & Data Analytics</h3>
@@ -42,8 +41,11 @@
 
 ### 🔥 My Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=normieweirdo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=normieweirdo&theme=dracula&column=5&v=5)
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=normieweirdo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=normieweirdo&theme=dracula&column=5&v=6" alt="GitHub Trophies" />
+</p>
 
 <br>
 
@@ -67,4 +69,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </p>
-
