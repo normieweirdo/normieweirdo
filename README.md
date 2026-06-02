@@ -44,12 +44,12 @@
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=normieweirdo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=normieweirdo&theme=dracula&column=5&v=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=normieweirdo&show_icons=true&theme=dracula&count_private=true" alt="Samir's GitHub Stats" />
 </p>
 
 <br>
 
-### 🕹️ My Contribution Maze
+### Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/normieweirdo/normieweirdo/pacman-output/pacman-contribution-graph-dark.svg?v=5">
